@@ -1,4 +1,4 @@
-@finalTest
+@regression
 Feature: Review project
 
   Scenario: EndToEnd account creation
